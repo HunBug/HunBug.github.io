@@ -22,7 +22,6 @@ title: Portfolio - Ákos Strack
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ákos Strack's portfolio, showcases computer vision, machine learning, data engineering and data science projects.
-  
 permalink: /:slug
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -52,10 +51,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
-    title_misc_list: Details
     title_blog: Blog
     title_github_projects: GitHub Projects
+    # title_projects: Portfolio
+    # title_misc_list: Details
 
 highlighter: rouge
 

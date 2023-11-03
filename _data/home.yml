@@ -1,27 +1,34 @@
 navbar_entries:
-  - title: about
-    url: about
+  # - title: about
+  #   url: about
 
-  - title: blog
-    url: blog
+  # - title: blog
+  #   url: blog
 
 #  - title: website
 #    url: https://www.abhinav.co
 
-project_entries:
-  - title: Project 1
-    url: welcome-to-jekyll
-    desc: Real projects will be published soon
+# project_entries:
+#   - title: Project 1
+#     url: welcome-to-jekyll
+#     desc: Real projects will be published soon
 
 github_project_entries:
   - title: DEC Project 1
-    url: https://github.com/AmyChude/Project1-Team3
+    url: https://github.com/HunBug/Dec_Project1-Team3
     desc: Data Engineer Camp, ELT project
+    highlight: DE
+
+  - title: DEC Project 2
+    url: https://github.com/cristianivanoff/dec_proj2_team4_dbt
+    desc: Data Engineer Camp, Big data ELT project
     highlight: DE
 
 footer_entries:
 #  - title: abhinav's homepage
 #    url: https://www.abhinav.co
+  - title: about
+    url: about
 
   - title: LinkedIn
     url: https://www.linkedin.com/in/akosstrack/
