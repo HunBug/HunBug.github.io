@@ -332,7 +332,7 @@ Best enjoyed on the couch with a Choo series, fuzzy socks, and Pupi the cat asle
 ---
 
 
-## Cozy Rum Hot Hhocolate {#cozy-rum-hot-hhocolate}
+## Cozy Rum Hot Chocolate {#cozy-rum-hot-chocolate}
 
 
 # Kumpli Recipe: Cozy Rum Hot Chocolate for Four — Salted Caramel Edition
