@@ -689,7 +689,8 @@ By the time they returned to our forest cottage, the basket was… *lighter* tha
 **Cuisine**: Estonian  
 **Type**: cold soup  
 **Difficulty**: Easy  
-**Serves**: 6  
+**Spicy**: None  
+**Serves**: 6 Kumplis (or 8 if serving with hearty rye bread)  
 
 **Prep Time**: 35 minutes  
 **Total Time**: 240 minutes  
@@ -698,25 +699,25 @@ By the time they returned to our forest cottage, the basket was… *lighter* tha
 
 ### 🐟 Fish & Protein
 
--  -  
+- 300 g marinated herring fillet (light oil or mild brine)- 5 large eggs (hard-boiled and chopped)
 ### 🥔 Vegetables
 
--  -  -  -  
+- 5 medium waxy potatoes (boiled in skins, peeled, diced)- 1 large (or 2 small) cucumber (finely diced)- 1 bunch (or 1 small red onion) spring onions (finely chopped)- 15–20 g fresh dill (chopped)
 ### 🥛 Creamy Liquid Base
 
--  -  -  -  -  
+- 600 ml kefir- 250 ml sour cream (hapukoor)- 250 ml cold sparkling mineral water- 1 tsp mild mustard (Dijon or Estonian style)- 1–2 tsp fresh lemon juice (or mild vinegar like white wine or apple cider)
 ### 🧂 Seasoning
 
--  
+-  salt & freshly cracked black pepper (start light — adjust after chilling)
 
 #### Instructions
 
-1. 1
-2. 2
-3. 3
-4. 4
-5. 5
-6. 6
+1. **Boil & Prep Veggies:** Boil the potatoes in salted water (skin-on) until tender. Cool, peel, and dice into bite-sized chunks. Hard-boil the eggs, peel, and chop.
+2. **Dice the Rest:** Dice cucumber, chop onions and dill. Cut herring into bite-sized cubes. If the marinade is too strong or vinegary, rinse lightly and pat dry.
+3. **Mix the Base:** In a large bowl, whisk kefir, sour cream, mineral water, mustard, and lemon juice until smooth. Taste and season lightly — remember, the herring brings saltiness.
+4. **Assemble the Soup:** Gently stir potatoes, eggs, cucumber, onion, dill, and herring into the base. Don't overmix — a chunky, rustic look is part of the charm.
+5. **Chill Thoroughly:** Cover and refrigerate for at least 4 hours (overnight for peak flavor). This step is crucial — the flavors deepen and marry beautifully.
+6. **Serve Cold:** Ladle into bowls and garnish with extra dill or a boiled egg half. Serve with black rye bread or buttered karask.
 
 
 ### Kumpli Notes
