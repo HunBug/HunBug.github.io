@@ -322,34 +322,10 @@ All of them right.
 
 Silt arrives last, as she often does. She doesn’t take a knife. She doesn’t reach for a pot. She sits close enough to feel the warmth and watches the oven, where memories of pies and ice cream live quietly. No one asks her to help. No one asks her to leave. She stays.
 
-The cutting board fills and empties and fills again. Different hands, different rhythms. Sometimes someone reaches across to steady a bowl. Sometimes a spoon is passed without comment. Nothing is wiped clean immediately. The mess is shared.
-
-Tasting happens without ceremony.
-
-Elf tries the spicy pot and raises an eyebrow — then takes another bite.
-Gomboc tastes the coconut curry and laughs softly when the sweetness lands.
-Ciraf leans into the tomato sauce, surprised by how comforting the acidity feels.
-Silt tastes only warmth, and that is enough.
-
-They eat standing up first, then sitting, then moving again. Plates overlap. Conversations do too. No one eats only one thing. No one explains their preferences.
-
-Later, when the night settles, the pots are still heavy.
-
-Leftovers are packed without hurry. Lids click shut. Tomorrow is accounted for, gently, without being announced. The kitchen smells like it will remember this.
-
-Maa leans against the counter, watching the others move around her, through her, with her. The noise doesn’t overwhelm. It holds.
-
-This is not a quiet house.
-This is not a careful house.
-
-This is a kitchen where different speeds are allowed.
-Where preferences are not corrected.
-Where sharing doesn’t mean losing yourself.
-
-The stove cools slowly.
-The warmth lingers longer than anyone expects.
-
-And tomorrow, there will still be food.
+The food is ready before anyone says a word. Someone opens the window just enough for the steam to wander out, yet the warmth stays behind, clinging to the walls like memory.
+No one eats the same thing first. Someone steals a bite from the wrong pot and grins without regret.
+Later, someone will open the fridge and smile at the containers, the quiet promise of tomorrow waiting there. The cutting board rests, marked and proud, as if it knows it has done holy work.
+Nothing is finished, and nothing needs to be. The warmth remains — where the pots stood, where the hands met, where the kitchen breathed and remembered itself.
 
 ![Bowl with two different curries](images/recipes/curry-night-trio/illustration.jpg)
 *Not indecision. Just Faszfej Cica realizing that “all of them” is, in fact, a valid choice — and one he is fully entitled to.*
