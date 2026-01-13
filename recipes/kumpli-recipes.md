@@ -80,6 +80,11 @@ In Kumpli mythology, this burrito is a sacred comfort ritual. When Boo's tail dr
 ![Boo holding the Burrito of Bravery](images/recipes/boos-smoky-burrito-of-bravery/illustration.jpg)
 *Boo, mid-bite, surrounded by steam, spice, and slight smugness.*
 
+**This chapter includes 2 recipe variations:**
+
+- Boo's Smoky Burrito of Bravery
+- Boo's Smoky Burrito of Bravery — Spicy Minced Meat Version
+
 ### Boo's Smoky Burrito of Bravery 🌯🔥
 **Cuisine**: Mexican-inspired  
 **Type**: Burrito  
@@ -123,6 +128,61 @@ In Kumpli mythology, this burrito is a sacred comfort ritual. When Boo's tail dr
 8. Assemble: On each tortilla: cheese, rice, beans, steak slices, corn salsa, avocado, and chipotle crema.
 9. Wrap It: Fold the bottom up, tuck in the sides, and roll tight like Boo's inner strength.
 10. Optional Toasting: Pan-sear the finished burrito for extra crisp joy.
+
+
+### Boo's Smoky Burrito of Bravery — Spicy Minced Meat Version 🌯🔥
+**Cuisine**: Mexican-inspired  
+**Type**: Burrito  
+**Difficulty**: Easy  
+**Spicy**: Cheese Buldak  
+**Serves**: 2–3 Kumplis  
+
+**Prep Time**: 20 minutes  
+**Total Time**: 30 minutes  
+
+#### Ingredients
+
+### 🥩 Spiced Minced Meat
+
+- 500–600g minced beef- 1 tbsp olive oil- 2 garlic cloves (minced)- 2 tbsp tomato paste- 1 tsp smoked paprika- ½ tsp chili flakes (more if you like it hot)- 1 tsp cumin-  salt & pepper (to taste)- 1 tbsp lime juice (for finishing)
+### 🌿 Cilantro-Lime Rice
+
+- 200g cooked white rice (about 1 cup)- 1 tbsp lime juice- 1 tsp lime zest- 2 tbsp chopped cilantro-  salt (to taste)
+### 🌽 Quick Corn Salsa
+
+- 1 cup corn kernels (fresh or frozen)- ½ small red onion (finely chopped)- 1 small jalapeño (optional, minced)- 1 tbsp lime juice-  salt & chopped cilantro (to taste)
+### 🫘 Smoky Black Beans
+
+- 1 cup canned black beans (drained)- 1 garlic clove (minced)- 1 tsp cumin- 1 tsp smoked paprika- pinch chili flakes-  salt (to taste)
+### 🌯 Other Fillings
+
+- 100g shredded cheese (Cheddar or Jack)- 2–3 flour tortillas- 1 ripe avocado (sliced, sprinkled with lime + salt)-  optional: toasted tortilla finish
+### 🌶️ Quick Chipotle Crema
+
+- ¼ cup sour cream- 1 tsp tomato paste- ½ tsp smoked paprika- ½ tsp chili flakes or chipotle hot sauce- 1 tsp lime juice- pinch salt
+
+#### Instructions
+
+### Prepare Components
+
+1. **Cilantro-Lime Rice**: Mix warm cooked rice with lime juice, zest, cilantro, and salt.
+2. **Char the Corn**: In a hot dry pan, sear corn until blackened spots appear. Toss with onion, jalapeño, lime, salt, and cilantro.
+3. **Cook the Beans**: Sauté garlic in a little oil, then add beans and spices. Simmer gently for flavor.
+4. **Make Chipotle Crema**: Mix sour cream with tomato paste, paprika, chili flakes, lime juice, and salt until smooth. Add a touch of water if too thick.
+
+### Cook the Minced Meat
+
+5. **Brown the meat**: Heat olive oil in a large pan over medium-high heat. Add minced garlic and sauté until fragrant.
+6. **Add beef & break it up**: Add minced beef and break it up with a spoon. Cook until it's halfway browned.
+7. **Add spices**: Stir in tomato paste, paprika, chili flakes, cumin, salt, and pepper. Cook until the meat is nicely browned and fragrant.
+8. **Finish with lime**: Turn off heat and stir in lime juice for brightness.
+
+### Assemble & Serve
+
+9. **Warm tortillas**: Quickly heat tortillas in a dry pan or wrap in a damp towel and microwave.
+10. **Layer & roll**: On each tortilla: cheese, rice, beans, minced meat, corn salsa, avocado, and a drizzle of chipotle crema. Roll burrito-style.
+11. **Optional pan-toast**: For a golden crust and extra joy, pan-sear the finished burrito for 1–2 minutes per side.
+
 
 
 ### Kumpli Notes
