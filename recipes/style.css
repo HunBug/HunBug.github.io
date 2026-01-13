@@ -1,28 +1,409 @@
+/* Kumpli Recipes - Clean, book-inspired styling optimized for grayscale displays */
+
+/* ============================================================================
+   BASE STYLES & TYPOGRAPHY
+   ============================================================================ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Grayscale-friendly palette */
+  --color-ink: #1a1a1a;
+  --color-ink-light: #4a4a4a;
+  --color-paper: #ffffff;
+  --color-paper-alt: #f8f8f8;
+  --color-border: #d0d0d0;
+  --color-border-light: #e8e8e8;
+  
+  /* Typography scale */
+  --font-serif: Georgia, 'Times New Roman', serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'Courier New', Courier, monospace;
+}
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  line-height: 1.6;
+  font-family: var(--font-serif);
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--color-ink);
+  background-color: var(--color-paper-alt);
+  padding: 2rem 1rem;
   max-width: 800px;
   margin: 0 auto;
-  padding: 20px;
-  color: #333;
 }
+
+/* ============================================================================
+   HEADER
+   ============================================================================ */
+
+header {
+  background-color: var(--color-paper);
+  padding: 2.5rem 2rem;
+  margin-bottom: 2.5rem;
+  border-top: 4px solid var(--color-ink);
+  border-bottom: 1px solid var(--color-border);
+  text-align: center;
+}
+
+header h1 {
+  font-family: var(--font-serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  font-variant: small-caps;
+}
+
+header p {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  color: var(--color-ink-light);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+header a {
+  color: var(--color-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.2rem 0.4rem;
+  transition: border-color 0.2s;
+}
+
+header a:hover {
+  border-bottom-color: var(--color-ink);
+}
+
+/* ============================================================================
+   MAIN CONTENT
+   ============================================================================ */
+
+main {
+  background-color: var(--color-paper);
+  padding: 3rem 2.5rem;
+  border: 1px solid var(--color-border-light);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* ============================================================================
+   HEADINGS
+   ============================================================================ */
+
+h2 {
+  font-family: var(--font-serif);
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--color-ink);
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-ink);
+  letter-spacing: -0.01em;
+}
+
+h2:first-child {
+  margin-top: 0;
+}
+
+h3 {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--color-ink);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+/* ============================================================================
+   LISTS & TABLE OF CONTENTS
+   ============================================================================ */
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 0.8rem 0;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+li a {
+  font-family: var(--font-serif);
+  color: var(--color-ink);
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: block;
+  padding: 0.3rem 0.5rem;
+  border-left: 3px solid transparent;
+  transition: all 0.2s;
+}
+
+li a:hover {
+  border-left-color: var(--color-ink);
+  padding-left: 1rem;
+  background-color: var(--color-paper-alt);
+}
+
+/* ============================================================================
+   RECIPE PAGES
+   ============================================================================ */
+
+.recipe-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 3px double var(--color-border);
+}
+
+.recipe-header h2 {
+  border-bottom: none;
+  margin: 0;
+  padding: 0;
+  font-size: 2.2rem;
+}
+
+.recipe-meta {
+  font-family: var(--font-sans);
+  color: var(--color-ink-light);
+  font-size: 0.85rem;
+  margin-top: 0.8rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+.recipe-section {
+  margin-bottom: 2.5rem;
+}
+
+.recipe-section h3 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  font-style: normal;
+  font-variant: small-caps;
+}
+
+/* Ingredient and step lists */
+.ingredients,
+.steps {
+  padding-left: 0;
+}
+
+.ingredients li,
+.steps li {
+  list-style-type: none;
+  margin-bottom: 0.7rem;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  border-bottom: none;
+  position: relative;
+}
+
+.ingredients li:before {
+  content: '•';
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.steps li {
+  counter-increment: step-counter;
+  padding-left: 2.5rem;
+}
+
+.steps li:before {
+  content: counter(step-counter) ".";
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+  font-family: var(--font-sans);
+}
+
+.steps {
+  counter-reset: step-counter;
+}
+
+/* ============================================================================
+   RAW RECIPE STYLES
+   ============================================================================ */
+
+.raw-recipe {
+  margin: 0;
+}
+
+.raw-recipe .recipe-content {
+  line-height: 1.8;
+}
+
+.raw-recipe .recipe-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.raw-recipe .recipe-content ul {
+  list-style-type: disc;
+  padding-left: 2rem;
+  margin: 1.2rem 0;
+}
+
+.raw-recipe .recipe-content li {
+  padding: 0.4rem 0;
+  border-bottom: none;
+  list-style-position: outside;
+}
+
+.raw-recipe .recipe-content ol {
+  list-style-type: decimal;
+  padding-left: 2rem;
+  margin: 1.2rem 0;
+}
+
+.raw-recipe .recipe-content p {
+  margin: 1.2rem 0;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.raw-recipe .recipe-content strong {
+  font-weight: 700;
+  color: var(--color-ink);
+}
+
+.raw-recipe .recipe-content em {
+  font-style: italic;
+}
+
+/* ============================================================================
+   IMAGES
+   ============================================================================ */
+
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 2rem 0;
+  display: block;
+  border: 1px solid var(--color-border-light);
+  padding: 0.5rem;
+  background-color: var(--color-paper);
 }
-h1, h2, h3 {
-  color: #2c3e50;
-}
-code {
-  background-color: #f8f9fa;
-  padding: 2px 4px;
-  border-radius: 3px;
-}
+
+/* ============================================================================
+   CODE & PRE
+   ============================================================================ */
+
 pre {
-  background-color: #f8f9fa;
-  padding: 16px;
-  border-radius: 6px;
+  font-family: var(--font-mono);
+  background-color: var(--color-paper-alt);
+  padding: 1.5rem;
+  border-left: 4px solid var(--color-border);
   overflow-x: auto;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 1.5rem 0;
+}
+
+code {
+  font-family: var(--font-mono);
+  background-color: var(--color-paper-alt);
+  padding: 0.2rem 0.5rem;
+  font-size: 0.9em;
+  border: 1px solid var(--color-border-light);
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  border: none;
+}
+
+/* ============================================================================
+   HORIZONTAL RULES
+   ============================================================================ */
+
+hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2rem 0;
+}
+
+/* ============================================================================
+   BLOCKQUOTES
+   ============================================================================ */
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid var(--color-border);
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  color: var(--color-ink-light);
+}
+
+/* ============================================================================
+   TABLES (if needed)
+   ============================================================================ */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+}
+
+th, td {
+  padding: 0.8rem;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+th {
+  font-weight: 600;
+  border-bottom: 2px solid var(--color-border);
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+/* ============================================================================
+   PRINT OPTIMIZATION
+   ============================================================================ */
+
+@media print {
+  body {
+    background-color: white;
+    padding: 0;
+    font-size: 12pt;
+  }
+  
+  main {
+    box-shadow: none;
+    border: none;
+    padding: 0;
+  }
+  
+  header {
+    border-top: 2px solid black;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  img {
+    max-width: 100%;
+    page-break-inside: avoid;
+  }
 }
