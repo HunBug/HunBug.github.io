@@ -1027,7 +1027,7 @@ Pupi, curled up nearby, licked her whiskers. Mystery solved: she'd taken on the 
 
 Alarms: stress-level high, gut-mood low. Maa, chief botanist of the Allagan pantry, initiates Operation Green Comet: leek thrusters, celery stabilizers, lentil core. The cauldron hums like a tiny warp drive—then the galley windows iris open to a quiet grove: moss-lit counters, a life-tree shadow on chrome. Maa taps the rim and murmurs an herb-charm; the steam curls into little green comets that drift like fireflies. Miku twirls a leek—half lightsaber, half wind-spell—and the ship seems to breathe with the forest. The tonic touches down in Boo’s bowl—silky, bright, merciful—engineered to soothe the tum and guided to earth by roots. Primary engines: leek + celery + lentil. Flavor satellites: cabbage, potato, zucchini, orbiting purely for pleasure. Not just soup; a soft reboot and a gentle grounding.
 
-![A cosmic bowl](illustration.png "A cosmic bowl of tummy tonic soup, steaming gently in a serene forest setting.")
+![A cosmic bowl](images/recipes/tummy-tonic-leek-and-celery-edition/illustration.jpg)
 *planetary calm — operation green comet complete.*
 
 ### Tummy Tonic: Leek & Celery Edition 🥣💚
