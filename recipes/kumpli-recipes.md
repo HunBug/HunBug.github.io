@@ -1021,3 +1021,87 @@ Pupi, curled up nearby, licked her whiskers. Mystery solved: she'd taken on the 
 
 ---
 
+## Tummy Tonic: Leek & Celery Edition { #tummy-tonic-leek-and-celery-edition }
+
+### Background
+
+Alarms: stress-level high, gut-mood low. Maa, chief botanist of the Allagan pantry, initiates Operation Green Comet: leek thrusters, celery stabilizers, lentil core. The cauldron hums like a tiny warp drive—then the galley windows iris open to a quiet grove: moss-lit counters, a life-tree shadow on chrome. Maa taps the rim and murmurs an herb-charm; the steam curls into little green comets that drift like fireflies. Miku twirls a leek—half lightsaber, half wind-spell—and the ship seems to breathe with the forest. The tonic touches down in Boo’s bowl—silky, bright, merciful—engineered to soothe the tum and guided to earth by roots. Primary engines: leek + celery + lentil. Flavor satellites: cabbage, potato, zucchini, orbiting purely for pleasure. Not just soup; a soft reboot and a gentle grounding.
+
+![A cosmic bowl](illustration.png "A cosmic bowl of tummy tonic soup, steaming gently in a serene forest setting.")
+*planetary calm — operation green comet complete.*
+
+### Tummy Tonic: Leek & Celery Edition 🥣💚
+**Cuisine**: European-inspired  
+**Type**: Soup  
+**Difficulty**: Easy  
+**Spicy**: None  
+**Serves**: 3–4 Kumplis  
+
+**Prep Time**: 15 minutes  
+**Total Time**: 50 minutes  
+
+#### Ingredients
+
+### 🧅 Aromatics Base
+
+- 1 tbsp olive oil (or ½ tbsp olive oil + ½ tbsp butter)- 2 medium leeks (white and light green parts only, thinly sliced)- 1 medium onion or shallot (finely chopped)- 1 stalk celery (diced)- 2 cloves garlic (minced)
+### 🥬 Optional Vegetables
+
+- 1 medium zucchini (chopped (optional))- 1–2 medium potatoes (about 200–250g, peeled and cubed (optional))- 1½ cups Chinese cabbage (Napa cabbage) (sliced (optional))
+### 🌱 Protein & Seasonings
+
+- ½ cup cooked lentils (or ¼ cup dried lentils, cooked separately)- 1 tsp dried thyme- ½ tsp ground cumin-  salt and freshly ground black pepper (to taste)
+### 🥛 Broth & Finishing
+
+- 4 cups vegetable broth- ⅓ cup oat milk or cream- ½ lemon (juice only)
+### 🌿 Optional Garnishes
+
+-  chopped parsley or chives-  swirl of cream or drizzle of olive oil-  crusty bread on the side
+
+#### Instructions
+
+### Prep & Base
+
+1. **Sauté the aromatics**: In a medium pot, heat the olive oil (and butter, if using) over medium heat. Add the leeks, onion, celery, and garlic. Cook for 8–10 minutes, stirring occasionally, until the vegetables are soft and fragrant.
+
+### Building the Soup
+
+2. **Prepare optional vegetables**: If using zucchini, potatoes, and/or Chinese cabbage: place them in a **heat-safe mesh insert, steaming basket, or steel soup filter** directly in the pot. This allows them to cook in the broth without being blended later.
+* Add the optional vegetables to the pot and cook for 2–3 minutes, stirring gently
+3. **Add seasonings and lentils**: Add the dried thyme, cumin, a pinch of salt, freshly ground black pepper, and the cooked lentils. Stir to combine.
+4. **Simmer in broth**: Pour in the vegetable broth. Bring to a simmer and cook for 20–30 minutes, or until the potatoes (if using) are tender.
+
+### Blending & Finishing
+
+5. **Blend the base**: Carefully remove the mesh insert containing the optional vegetables and set aside. Using an immersion blender, blend the soup base until smooth. You may blend partially for a textured finish or fully for a silky result. Return the cooked vegetables to the pot.
+6. **Add cream and lemon**: Stir in the oat milk (or cream) and lemon juice. Taste and adjust seasoning as needed.
+7. **Serve**: Ladle into bowls and garnish with parsley, chives, a swirl of cream or drizzle of olive oil. Serve hot with crusty bread.
+8. **Maa’s wisdom**: For best healing, hydrate kindly: sip a glass of water or warm herbal tea alongside your bowl, and keep hydrating through the evening.
+
+
+
+### Kumpli Notes
+
+Galley log, overheard as the tonic comes in for a gentle landing:
+
+- Galley AI: "Primary engines online: leek, celery, lentil."
+- Miku: "Warp-belly in three... two... spin!"
+- Maa: "Roots steady, breath slow. Green Comet—hold to the heartwood."
+- Boo: "Systems nominal. Request second landing."
+
+### Cooking Moments
+
+### Witch-systems synced; brew complete
+
+![Maa stirs a glowing cauldron that mixes forest magic with Allagan tech, under a canopy of stars.](images/recipes/tummy-tonic-leek-and-celery-edition/photo-2.jpg)
+*When Maa stirs, even the stars remember how to breathe.*
+
+### Warp-spin logged: operation success
+
+![Miku spinning a leek](images/recipes/tummy-tonic-leek-and-celery-edition/photo-1.jpg)
+*Every world needs one who stirs joy into gravity — that’s Miku’s dance.*
+
+
+
+---
+
