@@ -349,6 +349,100 @@ Even in the coldest months, this drink reminds all Kumplis — outer and inner �
 
 ---
 
+## Crispy Cheesy Rice Pancakes { #crispy-cheesy-rice-pancakes }
+
+### Background
+
+Morning in the Kumpli kitchen starts very normally. The light is a bit sleepy, the kettle sighs, and the usual breakfast suspects are already on the counter: bread, butter, something that has seen too many Mondays. It’s exactly the kind of morning that could slide by on autopilot, without anyone doing anything even slightly adventurous.
+
+Then the fridge door opens.
+
+Inside, a whole little town of leftovers tries to look busy. The yogurt concentrates on its expiry date. The pickles pretend they are immortal. And in one corner, in a small plastic box, sits yesterday’s rice: a quiet white crowd, edges a bit dry, politely waiting to see if today is the day… or if they’ll slowly become fridge ghosts. The rice-kami are gentle, but they whisper a very soft, very hopeful “Maybe…?”
+
+That’s when Gomboc notices them. She’s already awake on the counter, legs swinging, ears tuned to tiny moods — and today, she might even answer to Princesa Mangostino, depending on how important the situation feels. She calls for backup: Batman Gomboc and Vader Gomboc arrive at once, eyes shining with the most noble of intentions — which is, of course, to eat as much cheese as possible without upsetting anyone important, especially not the rice-kami.
+
+They hold a quick council. Wasting rice would definitely make the rice-kami grumpy. But turning the rice into something crispy and covering it in cheese? That feels like a completely respectful solution. So into a bowl goes the leftover rice, with a relieved little rustle, then an egg, a bit of flour… and then the Gombocs’ true objective: generous handfuls of shredded cheese, “for balance,” “for structure,” and mostly “because cheese.”
+
+Soon small, determined rice patties are forming, and the pan begins to sing. The rice-kami are satisfied: every grain gets a new life, golden and crackly at the edges. The Gomboc-crowd is satisfied: there is melted cheese everywhere. And by the time the plate is empty, the boring morning has quietly turned into a tiny Kumpli ceremony of respect — a promise that as long as someone is willing to fry things with enough cheese, no rice has to be forgotten.
+
+![Crispy Cheesy Rice Pancakes – Gomboc Mouse Arrangement](images/recipes/crispy-cheesy-rice-pancakes/illustration.jpg)
+*Golden, crackly-edged rice pancakes gather on the plate like a small Gomboc mouse, with tomato eyes, a cucumber smile, and two loyal sauces standing guard — proof that leftovers, when treated kindly (and cheesily), can still play.*
+
+### Crispy Cheesy Rice Pancakes 🍚🧀
+**Cuisine**: Fusion - Comfort Food  
+**Type**: Savory pancake  
+**Difficulty**: Easy  
+**Spicy**: None (or adjustable with add-ins)  
+**Serves**: 2–3 Kumplis  
+
+**Prep Time**: 10 minutes  
+**Total Time**: 20 minutes  
+
+#### Ingredients
+
+- 2 cups cooked rice (any kind, day-old works best for texture)- 1 cup shredded cheese (cheddar, mozzarella, gouda, or a mix)- 1 egg (for binding)- 2–3 tbsp all-purpose flour or breadcrumbs (optional, for extra structure)- 2 tbsp chopped green onion or chives (optional but delightful)- to taste salt & pepper- for frying butter or oil### 🌶️ Optional Add-ins for Extra Pizzazz
+
+- pinch garlic powder or paprika- 1–2 tbsp chopped fresh herbs (parsley, dill, cilantro, or your favorite)- finely diced onion, bell pepper, or jalapeño (for flavor, color, or heat)- 2–3 tbsp leftover cooked vegetables (finely chopped)
+### 🥣 Garlic Yogurt Herb Dip (cool & tangy)
+
+- ½ cup plain Greek yogurt or sour cream- 1 clove garlic (minced or grated)- 1 tsp lemon juice- 1–2 tbsp chopped fresh dill or parsley- to taste salt & pepper
+### 🌶️ Spicy Sriracha Mayo (punchy & bold)
+
+- 2 tbsp mayo- 1 tsp sriracha (or more to taste)- ½ tsp lemon juice or vinegar- pinch sugar (optional, for balance)
+### 🍅 Simple Tomato Relish (bright & fresh)
+
+- 1 cup cherry tomatoes (chopped)- 1 tbsp balsamic or red wine vinegar- 1 tbsp olive oil- to taste salt, pepper, and fresh basil or oregano
+
+#### Instructions
+
+1. **Mix It Up**: In a bowl, combine rice, cheese, egg, flour (or breadcrumbs), green onions, and any spices or add-ins.
+2. **Check Consistency**: Mix until it holds together. If it feels too loose, add a bit more flour or breadcrumbs.
+3. **Form Patties**: Scoop about ¼ cup of the mixture and form into a small pancake or patty with your hands. Slightly flatten them—not too thin, or they'll break.
+4. **Heat the Pan**: Heat a skillet over medium heat and add a touch of oil or butter.
+5. **Pan-Fry to Perfection**: Cook each patty for about 3–4 minutes per side until golden brown and crispy.
+6. **Drain & Serve**: Place on a paper towel briefly to remove excess oil, then serve hot!
+### 🥣 Garlic Yogurt Herb Dip
+
+7. Mix yogurt, minced garlic, lemon juice, chopped herbs, salt, and pepper. Let sit for 10 minutes so flavors mingle. Perfect contrast to the warm, melty pancake.
+
+### 🌶️ Spicy Sriracha Mayo
+
+8. Stir together mayo, sriracha, lemon juice, and optional pinch of sugar. Great if your pancakes have a touch of heat or smoky cheese.
+
+### 🍅 Simple Tomato Relish
+
+9. Combine chopped cherry tomatoes, vinegar, olive oil, salt, pepper, and fresh herbs. A quick-fix zingy and vibrant dip.
+
+
+
+### Kumpli Notes
+
+These pancakes are a true leftover paradise: almost any cooked rice works, and they happily welcome small amounts of cooked meat, vegetables, herbs, or leftover spices mixed straight into the batter. The texture stays best with day-old rice, and the flavor is only limited by what the fridge is willing to give. Dipping sauces are part of the fun — yogurt-based, spicy, creamy, or experimental — choose one for your mood, or two if the Gombocs are involved. Be warned: they are so good that you may end up cooking fresh rice just to make them again for dinner… which, conveniently, creates tomorrow’s leftovers too.
+
+**Variations to try:**
+- Add a pinch of smoked paprika for depth
+- Mix in cooked ground meat or crumbled bacon for protein
+- Serve with a squeeze of lemon and fresh herbs for brightness
+- Top with a fried egg for a breakfast sandwich
+
+### Cooking Moments
+
+![The Fridge Community Wakes](images/recipes/crispy-cheesy-rice-pancakes/photo-1.jpg)
+*Nothing moves yet — but the rice has already noticed the door opening.*
+
+![Bottom of morning](images/recipes/crispy-cheesy-rice-pancakes/photo-2.jpg)
+
+| 日本語 | Romanisation | English |
+|---|---|---|
+| 音もなく<br>白き粒あり<br>朝の底 | Oto mo naku<br>shiroki tsubu ari<br>asa no soko | Without a sound,<br>white grains are there<br>at the bottom of morning. |
+
+![After Everyone Is Fed](images/recipes/crispy-cheesy-rice-pancakes/photo-3.jpg)
+*Coffee is poured. Forks are set down. The rice has finished its journey.*
+
+
+
+---
+
 ## Golden Coconut Lentil Curry (14–20 Plants!) { #curry-night-trio-golden-coconut-lentil }
 
 ### Background
